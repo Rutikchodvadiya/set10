@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
-pubilc :
 int main(){
 int a,b,c;
 cout<<"Enter Value of A : ";
